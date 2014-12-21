@@ -25,7 +25,7 @@ opts_chunk$set(cache = FALSE)
 ```
 
 ### Loading and preprocessing the data
-Two csv files contatining the training and test data was downloaded from Amazon's cloudfront on the 24/08/2014 into a data folder in the working directory. 
+Two csv files contatining the training and test data was downloaded from Amazon's cloudfront on the 14/12/2014 into a data folder in the working directory. 
 
 ```{r, eval = FALSE}
 # check if a data folder exists; if not then create one
